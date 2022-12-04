@@ -19,6 +19,8 @@ To access and use the application,donwoload or clone the repository and then run
 
 The application has been deployed in the Streamlit Cloud.You can access here: [https://devpatel18-diabetes-prediction-streamlit-app-xfg7d9.streamlit.app/](https://devpatel18-diabetes-prediction-streamlit-app-xfg7d9.streamlit.app/)
 
+NOTE : The app might go to sleep due to inactive traffic, wake up the app in that case
+
 ## Demo
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/87890518/205499363-22939bce-b337-47a9-858b-ab64eae5085d.png">
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/87890518/205499384-907a911d-b46d-431f-addd-fdb6a1ccef32.png">
