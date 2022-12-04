@@ -1,4 +1,4 @@
-# diabetes_prediction_streamlit
+# Diabetes Prediction and Classification
 - A machine learning webapp created using Streamlit to predict the onset of diabetes based on diagnostic measures
 - Dataset used over here is obtained from Kaggle, Pima Indians Diabetes Database
   - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
@@ -25,4 +25,4 @@ The application has been deployed in the Streamlit Cloud.You can access here: [h
 If you find this repo useful , give it a star so as many people can get to know it.
 
 ## Credits
-[Vincent Lougat's notebook] (https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906)
+[Vincent Lougat's notebook](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906)
